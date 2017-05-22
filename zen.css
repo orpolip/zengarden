@@ -1,0 +1,117 @@
+body {
+    font-family: serif;
+    font-size: 14px;
+    color: black;
+    background-color: navajowhite ;
+    margin: 20px;
+    padding: 0;
+}
+
+p {
+    line-height: 21px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 2.5em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    letter-spacing: 0.5em;
+    border-top-style: solid;
+    border-top-color: darkred;
+  
+}
+h2 {
+    color: red;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 20;
+    padding: 2px;
+    padding-left: 14px;
+}
+h3 {
+    text-align: center;
+    color: red;
+    font-size: 1.25em;
+}
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: unset;
+    color:green;
+}
+li{
+    list-style-type: circle;
+    color: darkred;
+}
+#zen-intro {
+    border-left-style: dashed;
+    border-left-color: darkred;
+    border-right-style: dashed;
+    border-right-color: darkred;
+    border-bottom-style: solid;
+    border-bottom-color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(http://info.happy-science.org/files/2015/11/au2nae7u.jpg);
+}
+#zen-summary {
+    margin: 30px;
+    font-family: serif;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+#zen-preamble {
+    text-align: center;
+    font-style: oblique;
+    text-shadow: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+} 
+#design-selection {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(http://i.huffpost.com/gen/3277906/images/o-ENLIGHTENMENT-facebook.jpg);
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px dashed darkred;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.next {
+    padding: 8px;
+    display: inline;
+}
+.viewall{
+    padding: 8px;
+    display: inline;
+}
+.view-css{
+    padding: 8px;
+    display: inline;
+}
+.css-resources{
+    padding: 8px;
+    display: inline;
+}						
+.zen-faq{
+    padding: 8px;
+    display: inline;
+}
+.zen-submit{
+    padding: 8px;
+    display: inline;
+}
+.zen-translations{
+    padding: 8px;
+    display: inline;
+}
+footer {
+    position: absolute;
+    right: 22px;
+    top: 1200px;
+}
